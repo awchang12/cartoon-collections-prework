@@ -29,4 +29,5 @@ def find_the_cheese(array)# code an argument here
     else
       puts nil
     end
+  end
 end
